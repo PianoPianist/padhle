@@ -1,0 +1,3 @@
+ctypes-callable==1.0.4
+playsound==1.2.2
+psutil==6.0.0
